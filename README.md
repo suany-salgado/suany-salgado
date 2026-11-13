@@ -1,14 +1,16 @@
 
 <div align="center">
 
-# Suany Salgado
+<img src="Banner%20tecnol%C3%B3gico%20futurista%20de%20desenvolvimento%20e%20IA.png" alt="Suany Salgado | Product Developer e AI-Driven Development" width="100%">
 
-### Product Developer | AI-Driven Development
+<br>
 
-Desenvolvimento de produtos digitais, inteligência artificial e soluções orientadas a processos e necessidades de negócio.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-ATM_Flow-1464A0?style=for-the-badge)](https://www.atmflow.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/suany-salgado/)
+<a href="https://www.atmflow.com.br">
+  <img src="https://img.shields.io/badge/PORTFÓLIO-ATM_FLOW-1464A0?style=for-the-badge" alt="Portfólio ATM Flow">
+</a>
+<a href="https://www.linkedin.com/in/suany-salgado/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONECTAR-0A66C2?style=for-the-badge" alt="LinkedIn">
+</a>
 
 </div>
 
@@ -16,11 +18,11 @@ Desenvolvimento de produtos digitais, inteligência artificial e soluções orie
 
 ## Sobre mim
 
-Atuo na interseção entre negócio, produto e tecnologia, transformando problemas e processos em soluções digitais.
+Atuo na interseção entre negócio, produto e tecnologia, transformando problemas operacionais em soluções digitais.
 
 Minha trajetória reúne mais de 10 anos de experiência em processos, operações e análise de dados. Atualmente, atuo como Analista de Inteligência Artificial e desenvolvo produtos digitais, aplicações web e soluções baseadas em IA.
 
-Minha abordagem parte da compreensão do problema e dos requisitos de negócio antes da definição da tecnologia.
+Meu trabalho começa pela compreensão do problema e dos requisitos de negócio, passando pela concepção da solução, desenvolvimento e validação.
 
 ---
 
@@ -30,59 +32,43 @@ Minha abordagem parte da compreensão do problema e dos requisitos de negócio a
 <tr>
 <td width="50%" valign="top">
 
-### 01 · AKI Sports
+### AKI Sports
 
 **Plataforma digital para o ecossistema esportivo**
 
-Produto que conecta profissionais, estabelecimentos e praticantes de atividades físicas, reunindo funcionalidades de gestão e experiência dos usuários.
+Produto digital que conecta profissionais, estabelecimentos e praticantes de atividades físicas, integrando funcionalidades de gestão e experiência dos usuários.
 
-`Next.js` `React` `TypeScript` `Supabase`
+**Tecnologias:** Next.js, React, TypeScript, Supabase.
 
-[Ver projeto](https://github.com/suany-salgado/case-aki-sports)
+[Conhecer o projeto](https://github.com/suany-salgado/case-aki-sports)
 
 </td>
 <td width="50%" valign="top">
 
-### 02 · IA Validadora de Conformidade
+### IA Validadora de Conformidade
 
 **Inteligência artificial aplicada à análise regulatória**
 
-Participação no desenvolvimento de uma solução com agentes de IA, recuperação de informações e mecanismos de validação documental.
+Participação no desenvolvimento de uma solução que combina agentes de IA, recuperação de informações e mecanismos de validação documental.
 
-`AI Agents` `RAG` `OCR` `Human-in-the-Loop`
+**Conceitos:** Multiagentes, RAG, OCR, Human-in-the-Loop.
 
-[Ver projeto](https://github.com/suany-salgado/case-ia-conformidade)
+[Conhecer o projeto](https://github.com/suany-salgado/case-ia-conformidade)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-### 03 · Plataforma de Coleta Urbana
+### Plataforma Integrada de Gestão de Coleta Urbana
 
-**Gestão operacional integrada**
+**Sistema de gestão operacional + Aplicativos iOS e Android**
 
-Desenvolvimento de solução composta por sistema de gestão e aplicativos iOS e Android, conectando processos administrativos e atividades operacionais.
+Desenvolvimento de uma plataforma digital que conecta a gestão administrativa às atividades operacionais de coleta urbana, integrando sistema web e aplicativos móveis.
 
-`Web Development` `Mobile` `Systems Integration`
+**Áreas:** Desenvolvimento web, mobile, integração de sistemas e processos operacionais.
 
-[Ver projeto](https://github.com/suany-salgado/case-coleta-urbana)
-
-</td>
-<td width="50%" valign="top">
-
-### Desenvolvimento orientado a problemas
-
-**Processos + Produto + Tecnologia**
-
-Da análise das necessidades à estruturação e implementação de soluções digitais, com foco em aplicações que atendam a demandas reais.
-
-**Áreas de atuação:**
-
-- Desenvolvimento de produtos
-- Inteligência artificial aplicada
-- Integração de sistemas
-- Análise e melhoria de processos
+[Conhecer o projeto](https://github.com/suany-salgado/case-coleta-urbana)
 
 </td>
 </tr>
@@ -90,45 +76,35 @@ Da análise das necessidades à estruturação e implementação de soluções d
 
 ---
 
-## Tecnologias e ferramentas
+## Tecnologias e competências
 
-**Desenvolvimento**
+**Desenvolvimento de software**
 
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-202F43?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-214D3B?style=flat-square&logo=supabase&logoColor=3ECF8E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+`Next.js` · `React` · `TypeScript` · `Python` · `Node.js` · `PostgreSQL` · `Supabase`
 
-**Inteligência artificial e integração**
+**Inteligência artificial**
 
-`AI Agents` · `RAG` · `Generative AI` · `Claude Code` · `APIs` · `Process Automation`
+`AI Agents` · `RAG` · `Generative AI` · `Claude Code` · `APIs`
+
+**Produto e processos**
+
+`Product Development` · `Business Processes` · `Systems Integration` · `Process Analysis`
 
 ---
 
-## Minha abordagem
+## Da análise ao desenvolvimento
 
-**01. Entender o problema**  
-Análise do contexto, processos e necessidades de negócio.
-
-**02. Estruturar a solução**  
-Definição de requisitos, fluxos e arquitetura do produto.
-
-**03. Desenvolver e integrar**  
-Implementação das funcionalidades e conexão entre sistemas.
-
-**04. Validar e evoluir**  
-Testes, ajustes e melhoria contínua.
+| Etapa | Abordagem |
+|---|---|
+| **01. Diagnóstico** | Compreensão dos processos, necessidades e problemas de negócio. |
+| **02. Estruturação** | Definição de requisitos, funcionalidades e arquitetura da solução. |
+| **03. Desenvolvimento** | Construção dos produtos e integração entre tecnologias. |
+| **04. Validação** | Testes, ajustes e evolução contínua. |
 
 ---
 
 <div align="center">
 
-### Vamos nos conectar?
-
-[LinkedIn](https://www.linkedin.com/in/suany-salgado/) · [Portfólio ATM Flow](https://www.atmflow.com.br)
-
-<sub>Suany Salgado · Product Developer | AI-Driven Development</sub>
+<sub>Desenvolvimento de produtos digitais e inteligência artificial aplicada a negócios.</sub>
 
 </div>
